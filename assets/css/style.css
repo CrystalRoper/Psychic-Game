@@ -1,0 +1,23 @@
+body {
+background-image: url(../images/katrina.jpg);
+background-attachment: fixed;
+background-position: center;
+}
+
+#guesses {
+margin-top: 1in;
+width: fit-content;
+}
+
+#scores {
+margin-top: 4in;
+max-width: 150px;
+}
+
+#centered {
+margin: 150px 50px;
+}
+
+#dialogue {
+text-shadow: 3px 3px teal;
+}
